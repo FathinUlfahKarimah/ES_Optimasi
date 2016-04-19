@@ -3,7 +3,7 @@ Implementasi Evolutionary Strategies untuk optimasi fungsi berkendala<br>
 Sistem ini dibuat menggunakan bahasa pemrograman Java
 
 # Cara menggunakan
-Run program pada aplikasi untuk bahasa pemrograman Java.<br>
+Run program pada aplikasi untuk bahasa pemrograman Java. Klik tombol proses untuk menampilkan outputnya<br>
 Tersedia file .exe untuk menjalankan program secara langsung.
 
 # Evolutionary Strategies
