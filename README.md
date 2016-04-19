@@ -1,3 +1,9 @@
+FATHIN ULFAH KARIMAH<br>
+15/388471/PPA/04910<br>
+S2 Ilmu Komputer, UGM<br>
+TUGAS Computational Intelligence - Implementasi ES
+
+
 # ES_Optimasi
 Implementasi Evolutionary Strategies untuk optimasi fungsi berkendala<br>
 Sistem ini dibuat menggunakan bahasa pemrograman Java
